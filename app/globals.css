@@ -1,0 +1,23 @@
+@import "../css/main.css";
+@import "../css/pages-extra.css";
+@import "../css/zynith-custom.css";
+
+/* Next.js Root Enhancements */
+* {
+  box-sizing: border-box;
+}
+
+html {
+  overflow-x: hidden;
+  max-width: 100vw;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  color: #001f3e;
+  background-color: #ffffff;
+  overflow-x: hidden;
+  max-width: 100vw;
+  position: relative;
+}
+
